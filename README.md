@@ -21,4 +21,4 @@ TP final Noté de TechWeb2 avec [Laurent Guerin] (http://www.laurent-guerin.fr/)
   - Java Servlets
   - AjAX
   
-Auteur : **Thibault OSMONT** 2016
+Auteur : **Thibault OSMONT** - 2016
