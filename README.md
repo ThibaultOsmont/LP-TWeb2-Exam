@@ -2,7 +2,7 @@
 
 Licence Professionnelle - Systèmes Informatiques et Logiciels
 
-TP final Noté de TechWeb2 avec [Laurent Guerin] (http://www.laurent-guerin.fr/)
+TP final Noté de TechWeb2 avec [Laurent Guerin](http://www.laurent-guerin.fr/)
 
 ## Technologies mises en oeuvre pour ce TP
 
